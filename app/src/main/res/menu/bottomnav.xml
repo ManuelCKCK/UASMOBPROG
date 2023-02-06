@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Movie"
+        android:icon="@drawable/ic_baseline_home_24"
+        />
+    <item android:title="Theater"
+        android:icon="@drawable/ic_baseline_gps_fixed_24"/>
+</menu>
